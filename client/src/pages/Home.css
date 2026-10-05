@@ -1,0 +1,77 @@
+.home-page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f7f4ec;
+}
+
+.grove-map {
+  position: relative;
+  width: 100%;
+  max-width: 1500px;
+}
+
+.grove-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+/* All clickable areas */
+
+.hotspot {
+  position: absolute;
+  display: block;
+  border-radius: 30px;
+}
+
+
+/* Arena */
+
+.arena {
+  top: 30%;
+  left: 11%;
+  width: 14%;
+  height: 6%;
+}
+
+
+/* Game Lounge */
+
+.game-lounge {
+  top: 28%;
+  left: 72%;
+  width: 18%;
+  height: 7%;
+}
+
+
+/* Courtyard */
+
+.courtyard {
+  top: 56%;
+  left: 46%;
+  width: 17%;
+  height: 7%;
+}
+
+
+/* Garden */
+
+.garden {
+  top: 78%;
+  left: 11%;
+  width: 13%;
+  height: 7%;
+}
+
+
+/* Helps the user see what is clickable */
+
+.hotspot:hover {
+  outline: 3px solid white;
+  background-color: rgba(255, 255, 255, 0.15);
+  cursor: pointer;
+}
