@@ -5,7 +5,7 @@ const events = [
     date: "2026-11-08",
     time: "7:00 PM",
     description: "A live Christian concert featuring upbeat music and a high-energy crowd.",
-    image: "/images/forrest-frank.jpg",
+    image: "/images/forrest-frank.jpeg",
     category: "Concert"
   },
   {
@@ -23,7 +23,7 @@ const events = [
     date: "2026-11-12",
     time: "6:00 PM",
     description: "Compete with other players in a fast-paced Mario Kart tournament.",
-    image: "/images/mario-kart.jpg",
+    image: "/images/mario-kart.webp",
     category: "Gaming"
   },
   {
@@ -50,7 +50,7 @@ const events = [
     date: "2026-11-28",
     time: "1:00 PM",
     description: "Bring a dish and enjoy an afternoon picnic with the Grove community.",
-    image: "/images/potluck.jpg",
+    image: "/images/potluck.png",
     category: "Community"
   },
   {
@@ -59,7 +59,7 @@ const events = [
     date: "2026-11-15",
     time: "8:00 PM",
     description: "Watch a movie outdoors under the lights in the Grove Courtyard.",
-    image: "/images/movie-night.jpg",
+    image: "/images/movie-night.webp",
     category: "Entertainment"
   },
   {
@@ -68,7 +68,7 @@ const events = [
     date: "2026-11-29",
     time: "4:00 PM",
     description: "Try food from local vendors gathered in the Grove Courtyard.",
-    image: "/images/food-popup.jpg",
+    image: "/images/food-popup.jpeg",
     category: "Food"
   }
 ];
